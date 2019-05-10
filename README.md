@@ -16,7 +16,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ### Make and Run migrations
-python manage.py makemigrations
+###### python manage.py makemigrations
 python manage.py migrate
 
 
