@@ -4,7 +4,7 @@ This is a demo app created using  Django.
 ## Setting Up the Project
 
 ### Fork and Clone the Repo
-https://github.com/<github-handle>/Django-Demo-App.git
+https://github.com/<github_handle>/Django-Demo-App.git
 
 ### Create a Virtual Environment
 virtualenv --python=/usr/bin/python3 venv
