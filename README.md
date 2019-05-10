@@ -3,19 +3,19 @@ This is a demo app created using  Django.
 
 ## Setting Up the Project
 
-_Fork and Clone the Repo_
-https://github.com/<your_github_handle>/Django-Demo-App.git
+### Fork and Clone the Repo
+https://github.com/<github-handle>/Django-Demo-App.git
 
-_Create a Virtual Environment_
+### Create a Virtual Environment
 virtualenv --python=/usr/bin/python3 venv
 
-_Activate the Virtual Environmment_
+### Activate the Virtual Environmment
 source venv/bin/activate
 
-_cd to folder and install dependecies_
+### cd to folder and install dependecies
 pip install -r requirements.txt
 
-_Make and Run migrations_
+### Make and Run migrations
 python manage.py makemigrations
 python manage.py migrate
 
